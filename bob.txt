@@ -1,3 +1,6 @@
 Hi! I'm Bobby. I've been here for a while now.
 Hi! I'm Bob. I'm new here. Going deep.
 Changes for bob in re-write history
+
+-----------------------------------------------------------------
+Starting interactive rebase for bob.
