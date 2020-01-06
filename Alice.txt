@@ -7,3 +7,6 @@ Add some more to check cherry pick...
 And some more....
 Some more after patruck got changed!
 Changes for alice in re-write history.
+
+-----------------------------------------------------------------
+Starting interactive rebase for alice.
